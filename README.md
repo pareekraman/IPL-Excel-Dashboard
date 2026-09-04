@@ -29,10 +29,6 @@ venues, runs, wickets and match outcomes.
 - Match Winners
 - Season-wise Analysis
 
-## 🖼️ Dashboard Preview
-
-![IPL Dashboard](IPL_Dashboard.png)
-
 ## 📁 Files
 
 - IPL_Analysis_Dashboard.xlsx — Complete Excel dashboard
@@ -41,3 +37,7 @@ venues, runs, wickets and match outcomes.
 ## 👤 Author
 
 Raman Pareek
+
+## 🖼️ Dashboard Preview
+
+![IPL Dashboard](IPL_Dashboard.png)
