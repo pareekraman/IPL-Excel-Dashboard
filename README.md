@@ -1,13 +1,13 @@
-###🏏 IPL Performance Analysis Dashboard – Excel
+# 🏏 IPL Performance Analysis Dashboard – Excel
+
 A professional Excel-based IPL Performance Analysis Dashboard
 designed to analyze team performance, player statistics, match trends,
 toss decisions, and venue-level patterns.
-
 This project demonstrates practical Data Analyst skills using
 Microsoft Excel, including data organization, KPI creation, Pivot
 Tables, chart design, dashboarding, and interactive filtering.
 
-📊 Project Overview
+## 📊 Project Overview
 
 The IPL Performance Dashboard converts structured IPL match,
 batting, and bowling data into an interactive visual report.
@@ -31,7 +31,7 @@ Which venues hosted the most matches?
 How can the analysis be filtered by season, team, venue, player, or
 toss decision?
 
-🎯 Objectives
+## 🎯 Objectives
 
 Build a clean and interactive IPL analytics dashboard.
 
@@ -47,7 +47,7 @@ Explore the relationship between toss decisions and match winners.
 
 Present insights in a portfolio-ready format.
 
-🗂️ Dataset Structure
+## 🗂️ Dataset Structure
 
 The workbook contains 500 match-level records and supporting
 analytical sheets.
@@ -80,7 +80,7 @@ pivot table2                      Pivot-based analysis tables
 
 Dashboard_Plan                    Dashboard design and chart plan
 
-🔢 Key KPIs
+## 🔢 Key KPIs
 
 The dashboard includes five primary KPI cards:
 
@@ -97,7 +97,7 @@ Total Wickets: 1,222
 These KPIs provide a quick overview of the dataset and update the
 analytical view based on the underlying Excel calculations.
 
-🏆 Team Performance
+## 🏆 Team Performance
 
 The team-wins analysis highlights the most successful teams in the
 dataset.
@@ -118,7 +118,7 @@ Rank Team     Wins
 Key observation: LSG leads the team-win analysis with 58 wins in the
 dataset.
 
-🏏 Top Run Scorers
+## 🏏 Top Run Scorers
 
 The dashboard identifies the leading run scorers:
 
@@ -137,7 +137,7 @@ Rank Player                Runs
 
 Top performer: Ruturaj Gaikwad leads the dataset with 1,675 runs.
 
-🎯 Top Wicket Takers
+## 🎯 Top Wicket Takers
 
 The bowling analysis highlights the leading wicket takers:
 
@@ -157,7 +157,7 @@ Rank Bowler                  Wickets
 Top performer: Sunil Narine leads the wicket analysis with 110
 wickets.
 
-📅 Season Analysis
+## 📅 Season Analysis
 
 The dataset contains matches across five seasons:
 
@@ -171,7 +171,7 @@ Season   Matches
 
 Highest match count: 2023 with 121 matches.
 
-📈 Dashboard Visualizations
+## 📈 Dashboard Visualizations
 
 The dashboard is structured around the following visuals:
 
@@ -207,7 +207,7 @@ Player
 
 Toss Decision
 
-🛠️ Tools & Excel Skills Used
+## 🛠️ Tools & Excel Skills Used
 
 Tools - Microsoft Excel - Pivot Tables - Pivot Charts - Slicers -
 Excel formulas - Data visualization
@@ -216,7 +216,7 @@ Data Analyst Skills - Data cleaning and organization - KPI
 development - Aggregation - Trend analysis - Comparative analysis -
 Dashboard design - Business-style insight generation
 
-📐 Dashboard Design
+## 📐 Dashboard Design
 
 The dashboard follows a simple analyst-style structure:
 
@@ -243,7 +243,7 @@ The dashboard follows a simple analyst-style structure:
  │   Stacked Chart      │ │     Bar Chart        │
  └──────────────────────┘ └──────────────────────┘
 
-💡 Key Insights
+## 💡 Key Insights
 
 LSG has the highest number of wins in the team analysis.
 
@@ -259,7 +259,7 @@ possible patterns.
 Venue-level analysis helps identify locations with higher match
 frequency.
 
-🚀 How to Use
+## 🚀 How to Use
 
 Download IPL_Analysis_Dashboard.xlsx.
 
@@ -273,14 +273,14 @@ Select different seasons, teams, venues, players, or toss decisions.
 
 Review the KPI cards and charts to identify performance trends.
 
-📁 Project Files
+## 📁 Project Files
 
 IPL-Analysis/
 │
 ├── IPL_Analysis_Dashboard.xlsx
 └── README.md
 
-⚠️ Data Note
+## ⚠️ Data Note
 
 This project is intended as an Excel analytics and dashboarding
 portfolio project. The workbook contains structured IPL-style
@@ -288,7 +288,7 @@ analytical data for demonstrating dashboard development, KPI analysis,
 Pivot Tables, and visualization techniques. Figures shown in this README
 are based on the current workbook.
 
-👤 Project Type
+## 👤 Project Type
 
 Portfolio Project --- Data Analytics / Microsoft Excel
 
@@ -297,7 +297,7 @@ Skills Demonstrated
 Excel Pivot Tables Pivot Charts Slicers KPI Analysis
 Data Visualization Dashboard Design Data Analysis
 
-## Created By :
+## 👨‍💻 Created By :
 
 Ramandeep Pareek Aspiring Data Analyst | Excel | SQL | Python | Power BI
 
