@@ -299,7 +299,9 @@ Data Visualization Dashboard Design Data Analysis
 
 ## 👨‍💻 Created By :
 
-Ramandeep Pareek Aspiring Data Analyst | Excel | SQL | Python | Power BI
+Ramandeep Pareek 
+
+Aspiring Data Analyst | Excel | SQL | Python | Power BI
 
 
 
